@@ -1,0 +1,9 @@
+/* footer */
+.todo-footer {
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.todo-footer .btn {
+    float: right;
+}
